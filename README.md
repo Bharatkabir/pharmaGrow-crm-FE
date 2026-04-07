@@ -70,12 +70,6 @@ VITE_API_URL=http://localhost:8000/api
 
 ---
 
-## 📸 Screenshots
-
-*Add your project screenshots here (Dashboard, Login, etc.)*
-
----
-
 ## 📂 Project Structure
 
 ```
